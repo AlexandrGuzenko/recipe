@@ -1,0 +1,32 @@
+.App{
+  text-align: left;
+  line-height: 22px;
+  margin-top: 5%;
+}
+
+.box{
+  background-color: #F5F5F5;
+  padding:20px 20px 40px 20px;
+  border-radius: 7px;
+  border:1px solid lightgrey;
+}
+
+.center{
+  text-align: center;
+}
+
+button{
+  margin-right: 1%;
+}
+
+h2{
+  margin-top:0 !important;
+}
+
+h1{
+  text-align: center;
+}
+
+.App.container{
+  margin-top:1%;
+}
